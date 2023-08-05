@@ -1,5 +1,11 @@
-package PACKAGE_NAME;/**
- * @author Love-OverFlow
- * @date 2023/6/15
- */public class EagerSingleton {
+public class EagerSingleton {
+    private static final EagerSingleton instance = new EagerSingleton();
+
+    private EagerSingleton() {
+        // 初始化一些东西
+    }
+
+    public static EagerSingleton getInstance() {
+        return instance;
+    }
 }

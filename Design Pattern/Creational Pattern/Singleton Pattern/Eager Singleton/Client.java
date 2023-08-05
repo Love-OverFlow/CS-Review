@@ -1,5 +1,5 @@
-package PACKAGE_NAME;/**
- * @author Love-OverFlow
- * @date 2023/6/15
- */public class Client {
+public class Client {
+    public static void main(String[] args) {
+        var balancer = EagerSingleton.getInstance();
+    }
 }

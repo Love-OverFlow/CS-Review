@@ -1,5 +1,6 @@
-package PACKAGE_NAME;/**
- * @author Love-OverFlow
- * @date 2023/7/6
- */public class BallPen {
+public class BallPen implements Pen {
+    @Override
+    public String write() {
+        return "圆珠笔书写";
+    }
 }

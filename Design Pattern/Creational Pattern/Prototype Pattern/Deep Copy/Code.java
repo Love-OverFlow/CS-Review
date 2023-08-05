@@ -1,5 +1,10 @@
-package PACKAGE_NAME;/**
- * @author Love-OverFlow
- * @date 2023/6/16
- */public class Code {
+public class Code implements Cloneable {
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+
+    public Code() {
+    }
 }

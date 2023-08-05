@@ -1,5 +1,6 @@
-package PACKAGE_NAME;/**
- * @author Love-OverFlow
- * @date 2023/6/14
- */public class SmsFactory {
+public class SmsFactory implements SenderFactory{
+    @Override
+    public Sender Produce() {
+        return new SmsSender();
+    }
 }

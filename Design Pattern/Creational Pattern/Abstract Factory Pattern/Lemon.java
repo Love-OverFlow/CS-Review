@@ -1,5 +1,3 @@
-package PACKAGE_NAME;/**
- * @author Love-OverFlow
- * @date 2023/6/14
- */public interface Lemon {
+public interface Lemon {
+    void AcidAttack();
 }
