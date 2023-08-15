@@ -14,9 +14,9 @@ CMU 专门为此课开发了一个教学用的关系型数据库 [BusTub](https:
 
 | Assignment                                                   | Annotation                                                   | Note             |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------ |
-| [Project #0 - C++ Primer](https://15445.courses.cs.cmu.edu/fall2022/project0/) | C++ 11 基础语法学习，了解 C++ 项目结构，为后续项目保证语言基础 | [Proj 0.md](Proj%200.md) |
-| [Homework #1 - SQL](https://15445.courses.cs.cmu.edu/fall2022/homework1/) | 1) 复习基础和某些高级 SQL 语法<br />2) 熟悉 SQLite           | [HW 1.md](HW%201.md)       |
-| [Project #1 - Buffer Pool](https://15445.courses.cs.cmu.edu/fall2022/project1/) | N/A                                                          |                          |
+| [Project #0 - C++ Primer](https://15445.courses.cs.cmu.edu/fall2022/project0/) | C++ 11 基础语法学习，了解 C++ 项目结构，为后续项目保证语言基础 | [Proj 0](https://notion-blog-akhqk0hp5-love-overflow.vercel.app/cmu15-445-p0) |
+| [Homework #1 - SQL](https://15445.courses.cs.cmu.edu/fall2022/homework1/) | 1) 复习基础和某些高级 SQL 语法<br />2) 熟悉 SQLite           | [HW 1](https://notion-blog-akhqk0hp5-love-overflow.vercel.app/cmu15-445-hw1) |
+| [Project #1 - Buffer Pool](https://15445.courses.cs.cmu.edu/fall2022/project1/) | 1）实现可扩展哈希表<br />2）实现 LRU - K 缓存替换算法<br />3）借助上述两工具，最终实现缓冲池 | [Proj 1](https://notion-blog-akhqk0hp5-love-overflow.vercel.app/cmu15-445-p1) |
 | [Project #2 - B+Tree](https://15445.courses.cs.cmu.edu/fall2022/project2/) | N/A                                                          |                          |
 | [Project #3 - Query Execution](https://15445.courses.cs.cmu.edu/fall2022/project3/) | N/A                                                          |                          |
 | [Project #4 - Concurrency Control](https://15445.courses.cs.cmu.edu/fall2022/project4/) | N/A                                                          |                          |
@@ -25,7 +25,7 @@ CMU 专门为此课开发了一个教学用的关系型数据库 [BusTub](https:
 
 | 主题                                             | Note                                                         |
 | ------------------------------------------------ | ------------------------------------------------------------ |
-| Lecture #3-5：Database Storage 存储器 - 磁盘部分 | [notion 笔记](https://for-practice.notion.site/63f6440f6b9c428284b0ac7da9603eca) |
+| Lecture #3-5：Database Storage 存储器 - 磁盘部分 | [博客笔记](https://notion-blog-akhqk0hp5-love-overflow.vercel.app/cmu15-445-lec3-5) |
 |                                                  |                                                              |
 |                                                  |                                                              |
 
